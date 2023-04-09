@@ -1,0 +1,14 @@
+c:\users\kyowo\source\repos\ServerSideSocket\ServerSideSocket\bin\Debug\ServerSideSocket.exe.config
+c:\users\kyowo\source\repos\ServerSideSocket\ServerSideSocket\bin\Debug\ServerSideSocket.exe
+c:\users\kyowo\source\repos\ServerSideSocket\ServerSideSocket\bin\Debug\ServerSideSocket.pdb
+c:\users\kyowo\source\repos\ServerSideSocket\ServerSideSocket\obj\Debug\ServerSideSocket.csproj.CoreCompileInputs.cache
+c:\users\kyowo\source\repos\ServerSideSocket\ServerSideSocket\obj\Debug\ServerSideSocket.exe
+c:\users\kyowo\source\repos\ServerSideSocket\ServerSideSocket\obj\Debug\ServerSideSocket.pdb
+C:\Users\kyowo\source\repos\ServerSideSocket\ServerSideSocket\obj\Debug\ServerSideSocket.csprojAssemblyReference.cache
+D:\GUI프로그래밍\GUI프로그래밍\ServerSideSocket\ServerSideSocket\bin\Debug\ServerSideSocket.exe.config
+D:\GUI프로그래밍\GUI프로그래밍\ServerSideSocket\ServerSideSocket\bin\Debug\ServerSideSocket.exe
+D:\GUI프로그래밍\GUI프로그래밍\ServerSideSocket\ServerSideSocket\bin\Debug\ServerSideSocket.pdb
+D:\GUI프로그래밍\GUI프로그래밍\ServerSideSocket\ServerSideSocket\obj\Debug\ServerSideSocket.csprojAssemblyReference.cache
+D:\GUI프로그래밍\GUI프로그래밍\ServerSideSocket\ServerSideSocket\obj\Debug\ServerSideSocket.csproj.CoreCompileInputs.cache
+D:\GUI프로그래밍\GUI프로그래밍\ServerSideSocket\ServerSideSocket\obj\Debug\ServerSideSocket.exe
+D:\GUI프로그래밍\GUI프로그래밍\ServerSideSocket\ServerSideSocket\obj\Debug\ServerSideSocket.pdb
